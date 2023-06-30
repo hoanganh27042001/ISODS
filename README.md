@@ -1,4 +1,4 @@
-This repository contains a series of scripts used to analyze Twitter data.
+This repository contains a series of scripts used to perform Computer Vision task.
 
     .
     ├── process.py          # decompose the input clip into individual frames and perform image processing operations on each frame
